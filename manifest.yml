@@ -1,0 +1,12 @@
+modules:
+  macro:
+    - key: jirachecklist-hello-world
+      function: main
+      title: Jira Checklist
+      description: Adds Checklist of Jira Items to display status of each issue
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/73d631d7-44c9-435a-80ef-39a274e8bde5'
+  name: JiraChecklist
