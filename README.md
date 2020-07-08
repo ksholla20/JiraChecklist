@@ -6,7 +6,7 @@ While defining and documenting a project, we might want a checklist of Jira Item
 
 Following is the screen shot of how the macro looks when published
 
-![][docs/macro.png]
+<img src="./docs/macro.png">
 
 ## Quick start
 
